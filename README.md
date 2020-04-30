@@ -1,37 +1,47 @@
-<h3 align="center">
-  Github Explorer: Explorando as funcionalidades da API
-</h3>
+<img alt="GithubExplorer" src="src/assets/logo.svg" />
+
+<h1 align="center">
+<br>
+Github Explorer
+</h1>
+
+<p align="center">This project was created to explore github api and its features</p>
 
 <p align="center">
-  <a href="#memo-licença">Licença</a>
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
+  </a>
 </p>
 
-## Sobre
+<div>
+  <img src="repo/imgs/image1.png" alt="demo" height="425">
+  <img src="repo/imgs/image2.png" alt="demo" height="425">
+</div>
 
-Esta aplicação foi criada com o intuito de explorar as funcionalidades da API do Github.
+<hr />
 
-### Tecnologias
+## API
 
-- Typescript
-- ReactJS
-- React Hooks
-- Eslint + Prettier + EditorConfig
-- Styled Components
-- react-router-dom
-- react-icons
-- polished
+This project connects with github API.
 
-### Telas da aplicação
+## Features
 
-![GithubExplorer1](https://i.ibb.co/t8fLQr4/github-explorer-1.png)
-![GithubExplorer2](https://i.ibb.co/Y2gKLzR/github-explorer-2.png)
+- Add github repository.
+- Select github repository and see details, like stars, forks and issues.
+- Select issue to go to issue page.
 
-O resultado final do desafio pode ser visualizado acima.
+- ⚛️ **React Js** — A JavaScript library for building user interfaces
 
-## :memo: Licença
+## Getting started
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+- Clone project > enter the project folder
+- run `yarn`
+- run `yarn start`
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
 
 ---
 
-Proposto com ♥ by me
+Created with passion by me 👨🏻‍💻
